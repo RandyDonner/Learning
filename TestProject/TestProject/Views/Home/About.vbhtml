@@ -1,5 +1,5 @@
 ﻿@Code
-    ViewData("Title") = "About"
+    ViewData("Title") = "About Our Awesome Website"
 End Code
 
 <h2>@ViewData("Title").</h2>
